@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment_Book</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello profile fragment</string>
+    <string name="blank_fragment">blank profile fragment</string>
+
+    //other
+
+</resources>

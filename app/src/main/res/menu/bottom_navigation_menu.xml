@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/icons8_basket_24"
+        android:title="Cart" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/icons8_home"
+        android:title="Profile" />
+
+</menu>
